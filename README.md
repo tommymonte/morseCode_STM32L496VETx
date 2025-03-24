@@ -18,6 +18,7 @@ This project implements a Morse code emulator using the **VirtLab** board provid
 
 ### **Software**
 - **STM32CubeIDE** (for firmware development and debugging)
+- **FreeRTOS** (for real-time task scheduling)
 - **PuTTY** or any serial terminal emulator
 - **Embedded C Compiler** (integrated in STM32CubeIDE)
 - VirtLab SDK (if required for flashing firmware)
@@ -28,6 +29,7 @@ This project implements a Morse code emulator using the **VirtLab** board provid
 3. The Morse code is:
    - Displayed in text format on the terminal.
    - Transmitted using the **VirtLab board’s LEDs** (short blinks for dots, long blinks for dashes).
+4. The firmware is implemented using **FreeRTOS**, allowing concurrent task management for handling user input, Morse code conversion, and LED signaling efficiently.
 
 ## Installation & Usage
 1. **Flash the Firmware**

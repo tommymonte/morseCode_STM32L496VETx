@@ -1,0 +1,17 @@
+../Src/io.c:16:6:led0	0	static
+../Src/io.c:24:6:led1	0	static
+../Src/io.c:32:6:led2	0	static
+../Src/io.c:40:6:led3	0	static
+../Src/io.c:52:9:getSwitches	20	static
+../Src/io.c:64:5:getSwitch0	0	static
+../Src/io.c:68:5:getSwitch1	0	static
+../Src/io.c:72:5:getSwitch2	0	static
+../Src/io.c:76:5:getSwitch3	0	static
+../Src/io.c:80:5:getSwitch4	0	static
+../Src/io.c:84:5:getSwitch5	0	static
+../Src/io.c:88:5:getSwitch6	0	static
+../Src/io.c:92:5:getSwitch7	0	static
+../Src/io.c:100:10:getIoState	0	static
+../Src/io.c:147:6:lcdWriteDigit	24	static
+../Src/io.c:224:6:lcdUpdateDisplay	0	static
+../Src/io.c:228:6:lcdWriteHexDigit	0	static

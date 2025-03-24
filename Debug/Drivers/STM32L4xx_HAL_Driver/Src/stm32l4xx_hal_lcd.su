@@ -1,0 +1,10 @@
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:138:19:HAL_LCD_Init	32	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:261:19:HAL_LCD_DeInit	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:291:13:HAL_LCD_MspDeInit	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:306:13:HAL_LCD_MspInit	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:374:19:HAL_LCD_Write	32	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:424:19:HAL_LCD_Clear	32	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:480:19:HAL_LCD_UpdateDisplayRequest	24	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:539:22:HAL_LCD_GetState	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:550:10:HAL_LCD_GetError	16	static
+../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_lcd.c:572:19:LCD_WaitForSynchro	24	static

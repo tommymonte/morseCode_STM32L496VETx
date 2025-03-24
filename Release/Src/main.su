@@ -1,0 +1,11 @@
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:563:22:LL_AHB2_GRP1_EnableClock	8	static
+../Src/main.c:746:6:StartDefaultTask	8	static
+../Src/main.c:776:7:StartprodTask	8	static
+../Src/main.c:799:6:StartconsTask	8	static
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:496:22:LL_GPIO_SetPinPull.constprop	0	static,ignoring_inline_asm
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:285:22:LL_GPIO_SetPinMode.constprop	0	static,ignoring_inline_asm
+../Src/main.c:236:6:SystemClock_Config	96	static
+../Src/main.c:285:6:PeriphCommonClock_Config	152	static
+../Src/main.c:135:5:main	56	static,ignoring_inline_asm
+../Src/main.c:823:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Src/main.c:840:6:Error_Handler	0	static
